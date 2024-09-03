@@ -21,6 +21,6 @@ I'm on a quest to transform raw data into insights! In the daytime, I'm your fri
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/themis-kavour/)
-- 🌐 [Portfolio](https://datascientisttk.wixsite.com/portfolio)
+- 🌐 [Portfolio](https://kavourei.github.io)
 
 Feel free to explore my magical repositories and witness the spells of data unfold! ✨
