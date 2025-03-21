@@ -18,7 +18,7 @@ I'm on a quest to transform raw data into insights! In the daytime, I'm your fri
 - **Data's Best Friends:** R & Python 🐍
 - **Nerdy Hobby:** Predicting the future using data (still a work in progress 🪄)
 
-## 📚 Currently Interesting at:
+## 📚 Currently Interested at:
 - **Agents:** Exploring possibilities and getting my hands dirty, [here](https://huggingface.co/learn/agents-course/unit0/introduction)
 - **AI in greek:** Searching optimised ways to communicate with LLMs in greek.
 - **Hobbyt:** A personal project soon to be announced properly.
