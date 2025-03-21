@@ -9,7 +9,7 @@ I'm on a quest to transform raw data into insights! In the daytime, I'm your fri
 ## 🚀 Current Status
 
 - 🤓 Crafting cutting-edge machine learning models
-- 💼 Solving real-world problems at CERTH
+- 💼 Solving real-world problems at CERTH and other freelancing projects like NGLStrategy and more.
 - 📊 Turning coffee into meaningful visualizations ☕️ 
 
 ## 📈 Fun Facts
@@ -17,6 +17,11 @@ I'm on a quest to transform raw data into insights! In the daytime, I'm your fri
 - **Favorite Algorithm:** The one that works!
 - **Data's Best Friends:** R & Python 🐍
 - **Nerdy Hobby:** Predicting the future using data (still a work in progress 🪄)
+
+## 📚 Currently Interesting at:
+- **Agents:** Exploring possibilities and getting my hands dirty, [here](https://huggingface.co/learn/agents-course/unit0/introduction)
+- **AI in greek:** Searching optimised ways to communicate with LLMs in greek.
+- **Hobbyt:** A personal project soon to be announced properly.
 
 ## 📫 Let's Connect!
 
